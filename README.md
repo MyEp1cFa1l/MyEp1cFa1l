@@ -13,7 +13,7 @@
 
 ### 🚀 Мои проекты:
 *   🛠️ [**Автомастерская (MySQL)**]((https://github.com/MyEp1cFa1l/Course-work-Car-repair-shop--SRT-)) — Курсовая работа по проектированию базы данных для СТО.
-*   📊 [**Student Dashboard (Django + Docker)**]([https://github.com/MyEp1cFa11/student-dashboard]) — Личный трекер учебы с дашбордом, расписанием, оценками и аналитикой.
+*   📊 [**Student Dashboard (Django + Docker)**](https://github.com/MyEp1cFa1l/student-dashboard) — Личный трекер учебы с дашбордом, расписанием, оценками и аналитикой.
 *   🤖 [**student-helper-bot**]([https://github.com/MyEp1cFa11/student-helper-bot](https://github.com/MyEp1cFa1l/student-helper-bot)) — Telegram-бот для помощи студентам.
 
 ### 🛠 Мой стек технологий:
