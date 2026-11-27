@@ -12,9 +12,9 @@
 > Изучаю SQL, анализ данных и системный анализ. Развиваюсь в направлении аналитики данных и бизнес-/системного анализа.
 
 ### 🚀 Мои проекты:
-*   🛠️ [**Автомастерская (MySQL)**]([ссылка_на_репозиторий](https://github.com/MyEp1cFa1l/Course-work-Car-repair-shop--SRT-)) — Курсовая работа по проектированию базы данных для СТО.
-*   📊 [**Student Dashboard (Django + Docker)**](https://github.com/MyEp1cFa11/student-dashboard) — Личный трекер учебы с дашбордом, расписанием, оценками и аналитикой.
-*   🤖 [**student-helper-bot**](https://github.com/MyEp1cFa11/student-helper-bot) — Telegram-бот для помощи студентам.
+*   🛠️ [**Автомастерская (MySQL)**]((https://github.com/MyEp1cFa1l/Course-work-Car-repair-shop--SRT-)) — Курсовая работа по проектированию базы данных для СТО.
+*   📊 [**Student Dashboard (Django + Docker)**]([https://github.com/MyEp1cFa11/student-dashboard](https://github.com/MyEp1cFa1l/student-dashboard)) — Личный трекер учебы с дашбордом, расписанием, оценками и аналитикой.
+*   🤖 [**student-helper-bot**]([https://github.com/MyEp1cFa11/student-helper-bot](https://github.com/MyEp1cFa1l/student-helper-bot)) — Telegram-бот для помощи студентам.
 
 ### 🛠 Мой стек технологий:
 
